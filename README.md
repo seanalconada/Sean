@@ -1,2 +1,1 @@
-# Sean
-## I am learning computer programing
+# Sean ## I am learning computer programing

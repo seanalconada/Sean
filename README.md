@@ -1,3 +1,2 @@
 # Sean
-## I am learning computer programming
-## I go to Walpole High
+## I am learning computer programming, and I go to WHS

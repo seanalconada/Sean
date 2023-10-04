@@ -1,3 +1,3 @@
 # Sean Alconada
 ## I am learning computer programming, and I go to WHS
-## [robot] (https://github.com/seanalconada/Robot)
+## [robot] (https://seanalconada.github.io/Robot)

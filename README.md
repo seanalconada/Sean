@@ -12,5 +12,7 @@
 ## 🎸I like to play guitar
 
 ## [Robot] (https://seanalconada.github.io/Robot/)
+>This is a randomized robot.
 
 ## [Captioned Scene] (https://studio.code.org/projects/gamelab/wz3iYMkA17XUaLcQlAd-tS3kiGZlkp9zKnMwDBfcRH4)
+>This is a soccer match with 2 people passing a the ball

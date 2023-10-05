@@ -2,7 +2,7 @@
 
 ![octocat-small2](https://github.com/seanalconada/Sean/assets/146843526/33532543-a049-44eb-84f4-98f21bb64c63)
 
-###About Me
+### About Me
 
 - 👋Hi, I am @seanalconada
 - 🖥️I am learning computer programming

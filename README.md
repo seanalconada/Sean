@@ -1,4 +1,5 @@
 ### Sean Alconada
+![octocat-small](https://github.com/seanalconada/Sean/assets/146843526/2c7a0b8d-d413-4e93-b351-c74ff5c89d36)
 
 ## 👋Hi, I am @seanalconada
 

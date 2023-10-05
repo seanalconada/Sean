@@ -6,9 +6,9 @@
 
 - 👋Hi, I am @seanalconada
 - 🖥️I am learning computer programming
- -🏫I go to WHS
- -🏀I play basketball
- -🎸I like to play guitar
+-🏫I go to WHS
+-🏀I play basketball
+-🎸I like to play guitar
 
 ### Code.org GameLab
 

@@ -15,4 +15,4 @@
 >This is a randomized robot.
 
 ## [Captioned Scene] (https://studio.code.org/projects/gamelab/wz3iYMkA17XUaLcQlAd-tS3kiGZlkp9zKnMwDBfcRH4)
->This is a soccer match with 2 people passing a the ball
+>This is a soccer match with 2 people passing a ball. a random score, and the players are in different positions. 

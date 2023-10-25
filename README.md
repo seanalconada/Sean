@@ -21,8 +21,8 @@
 [Animation]
 >
 
-[Interactive Card]
->
+[Interactive Card](https://studio.code.org/projects/gamelab/ezzCowy4VAIZP-ShaRKPFZlwrzck06rYjpoa3da3Uu4)
+>In this project me and my partner created a birthday card that opens when you hold left click down, and will have a gift and some balloons inside. You can aslo make the balloons explode.
 
 [Side Scroller]
 >

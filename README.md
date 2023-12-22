@@ -27,3 +27,5 @@
 [Platform Game](https://studio.code.org/projects/gamelab/v0NJw5Zt0FCANN5mzFLJtpYD-T5-_g3aqNru4r4OCgw)
 >This is a project where you have to jump form platform to platform.
 
+[Final Game Project](https://studio.code.org/projects/gamelab/4LFFwyTuUpsn2VDNiGoJ5jFEsWUww9cRm0UFOrdEJN0)
+>In this game you have to avoid the enemys by jumping and collect stars, once you have enough starts you can get the medal to win.

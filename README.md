@@ -37,4 +37,4 @@
 >This app playes music when pressing the buttons, you can make you own sequance of music.
 
 [Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=9cef6601-086e-4ac1-9e8f-4eafb7ca3412)
->You have to control the ball to find the gold and not hit the edges of the maze.
+>You have to control the ball to find the gold and not hit the edges of the maze. Project with Zach.

@@ -38,3 +38,6 @@
 
 [Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=9cef6601-086e-4ac1-9e8f-4eafb7ca3412)
 >You have to control the ball to find the gold and not hit the edges of the maze. Project with Zach.
+
+[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=b92a19cb-87b4-40ea-a2a1-f1c370bc5848) 
+>This is a game where you collect food and grow, but if you hit another ball you lose.

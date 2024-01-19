@@ -41,3 +41,6 @@
 
 [Food Chase](https://gallery.appinventor.mit.edu/?galleryid=b92a19cb-87b4-40ea-a2a1-f1c370bc5848) 
 >This is a game where you collect food and grow, but if you hit another ball you lose.
+
+[Paint Pot](https://gallery.appinventor.mit.edu/?galleryid=bd8dba09-1f7d-4254-b8b8-5979b6b497ea)
+>You can paint a house with different colors and different sizes.

@@ -48,3 +48,9 @@
 >You can paint a house with different colors and different sizes.
 
 ## CMU 
+
+[Creative task 1](https://academy.cs.cmu.edu/sharing/cornSilkLobster9820)
+>Drawing of a pirate ship
+
+[Creative task 2](https://academy.cs.cmu.edu/sharing/tomatoShark1914)
+>A moving boat when you click, moving objects in the background.

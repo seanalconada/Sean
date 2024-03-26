@@ -56,4 +56,4 @@
 >A moving boat when you click, moving objects in the background.
 
 [Creative task 2](https://academy.cs.cmu.edu/sharing/burlyWoodCamel2870)
->A record player that spins and turns colors. 
+>A record player that spins and has different colors.

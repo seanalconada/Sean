@@ -53,7 +53,7 @@
 >Drawing of a pirate ship using different shapes and polygons.
 
 [Creative task 2](https://academy.cs.cmu.edu/sharing/tomatoShark1914)
->A moving boat when you click,and moving objects in the background that go at different speeds. Different variables and onMouseClick property.
+>A moving boat when you click, and moving objects in the background that go at different speeds. Different variables and onMouseClick property.
 
 [Creative task 3](https://academy.cs.cmu.edu/sharing/burlyWoodCamel2870)
 >A record player that spins and has different colors when you move your mouse. onMouseMove, click property, and if-else.

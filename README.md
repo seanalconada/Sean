@@ -56,7 +56,7 @@
 >A moving boat when you click, moving objects in the background.
 
 [Creative task 3](https://academy.cs.cmu.edu/sharing/burlyWoodCamel2870)
->A record player that spins and has different colors.
+>A record player that spins and has different colors when you move your mouse.
 
 [Creative task 4](https://academy.cs.cmu.edu/sharing/dimGrayAlligator7576)
->A game where one person tries to punch and another tries to dodge.
+>A game where one person tries to punch by clickinh and another tries to dodge. 

@@ -60,3 +60,6 @@
 
 [Creative task 4](https://academy.cs.cmu.edu/sharing/dimGrayAlligator7576)
 >A game where one person tries to punch by clicking and another tries to dodge. onKeyPress property, elif, and custom propertys.
+
+[Creative task 5](https://academy.cs.cmu.edu/sharing/springGreenLobster1614)
+>The DVD logo that is controlled by a player and multiple things happen when you hit different stars.
